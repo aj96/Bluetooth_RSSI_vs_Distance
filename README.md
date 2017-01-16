@@ -21,3 +21,6 @@ Installation
 
 You will need to run this program from the Intel Galileo Board and make sure that the Galileo Board has the python pybluez module installed. 
 
+The command is:
+
+$ python RSSI_vs_Distance.py
